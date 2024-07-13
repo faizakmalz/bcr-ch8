@@ -24,8 +24,8 @@ function App() {
             <Route path="/edit-car/:id" element={<EditCarPage />} />
             <Route path='/login' element={<LoginPage/>}/>
             <Route path='/dashboard' element={<ProtectedRoute><DashboardPage/></ProtectedRoute>}/>
-            <Route path='/dashboard/cars' element={<CarsListPage/>}/>
-            <Route path='/dashboard/addcar' element={<AddCarPage/>}/>
+            <Route path='/carslist' element={<CarsListPage/>}/>
+            <Route path='/addcar' element={<AddCarPage/>}/>
           </Routes>
         </BrowserRouter>
       </GoogleOAuthProvider>

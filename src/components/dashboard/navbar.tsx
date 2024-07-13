@@ -20,10 +20,10 @@ const Navbar = () => {
                     <Sidebar.Item href="/dashboard">
                         Dashboard
                     </Sidebar.Item>
-                    <Sidebar.Item href="/dashboard/cars">
+                    <Sidebar.Item href="/carslist">
                         Cars
                     </Sidebar.Item>
-                    <Sidebar.Item href="/dashboard/addcar">
+                    <Sidebar.Item href="/addcar">
                         Add Cars
                     </Sidebar.Item>
                     </Sidebar.ItemGroup>

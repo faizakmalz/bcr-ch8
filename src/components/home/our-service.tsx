@@ -3,7 +3,7 @@ const OurService = () => {
         <section id="our-services" className="my-16 mx-[15%]">
             <div className="flex flex-col lg:flex-row items-center justify-around gap-24">
                 <div className="w-[1259px]">
-                    <img src="https://i.ibb.co/F0mb2BC/img-service.png" alt="Why Us Illustration" className="img-fluid" />
+                    <img src="/images/img_service (1).png" alt="Why Us Illustration" className="img-fluid" />
                 </div>
                 <div className="flex flex-col gap-4 text-left my-5">
                     <div>
@@ -17,23 +17,23 @@ const OurService = () => {
                     </div>
                     <div className="mt-3">
                         <div className="flex items-center mt-3">
-                        <img src="https://i.ibb.co/XVBQWxf/list-style.png" alt="list check" />
+                        <img src="/images/Group 53.png" alt="list check" />
                         <p className="ml-2">Sewa Mobil Dengan Supir di Bali 12 Jam</p>
                         </div>
                         <div className="flex items-center mt-3">
-                        <img src="https://i.ibb.co/XVBQWxf/list-style.png" alt="list check" />
+                        <img src="/images/Group 53.png" alt="list check" />
                         <p className="ml-2">Sewa Mobil Lepas Kunci di Bali 24 Jam</p>
                         </div>
                         <div className="flex items-center mt-3">
-                        <img src="https://i.ibb.co/XVBQWxf/list-style.png" alt="list check" />
+                        <img src="/images/Group 53.png" alt="list check" />
                         <p className="ml-2">Sewa Mobil Jangka Panjang Bulanan</p>
                         </div>
                         <div className="flex items-center mt-3">
-                        <img src="https://i.ibb.co/XVBQWxf/list-style.png" alt="list check" />
+                        <img src="/images/Group 53.png" alt="list check" />
                         <p className="ml-2">Gratis Antar - Jemput Mobil di Bandara</p>
                         </div>
                         <div className="flex items-center mt-3">
-                        <img src="https://i.ibb.co/XVBQWxf/list-style.png" alt="list check" />
+                        <img src="/images/Group 53.png" alt="list check" />
                         <p className="ml-2">Layanan Airport Transfer / Drop In Out</p>
                         </div>
                     </div>

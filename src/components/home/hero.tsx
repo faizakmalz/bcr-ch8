@@ -20,7 +20,7 @@ const HeroSection = () => {
 
                 </div>
                 <div className="flex flex-1 justify-end w-[50%] items-end justify-items-end w-full">
-                    <img src="https://i.ibb.co/Krg5rVN/img-car.png" />
+                    <img src="/images/img_car.png" />
                 </div>
             </div>
         </section>

@@ -35,7 +35,7 @@ const Testimonial = () => {
                             <SwiperSlide>
                                     <div className="flex bg-[#F1F3FF] shadow-lg rounded-lg px-14 py-8 gap-8 w-[619px] h-[270px]">
                                         <div className=" mb-4 flex-none w-36 flex items-center">
-                                            <img src="https://i.ibb.co/5BWcpLN/testimoni-foto1.png" alt="testimonial user image" className="rounded-full w-24 h-24 mx-auto" />
+                                            <img src="/images/img_photo (3).png" alt="testimonial user image" className="rounded-full w-24 h-24 mx-auto" />
                                         </div>
                                         <div className=" flex flex-col justify-start flex-1">
                                             <div className="rating-stars flex justify-start mb-4">
